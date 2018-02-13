@@ -3,7 +3,7 @@ import unittest
 
 
 class TestPerformance:
-    @unittest.skip
+    #@unittest.skip
     def _test_simulation_generation_perf(self):
         """
         test function to see how fast we can generate all of our simulations
